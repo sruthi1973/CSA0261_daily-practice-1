@@ -17,7 +17,7 @@ main()
 	}
 	else
 	{
-		printf("n is not a prime numbre");
+		printf("n is not a prime number");
 	}
 	return 0;
 }
